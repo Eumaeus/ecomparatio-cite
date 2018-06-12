@@ -12,8 +12,13 @@ A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/e
 
 > Run it by …. See `CiteService/README.md` for example requests.
 
-- IntegrationBuild
-- Virtual Machine
+- IntegrationBuild: The `SBT`/`Scala` build-package that uses CITE code libraries to generate a CEX serialization of two texts of Plutarch's *Pericles* and a collection of "difference objects" based on JSON output from eComparatio
+
+> See `IntegrationBuild/README.md` for build-instructions.
+
+- Virtual Machine: The CiteService and integration scripts requires SBT, Java 1.8, and in general a Unix-like environment. This Virtual Machine image offers a pre-configured environment. 
+
+> See `VirtualMachine` for set-up instructions.
 
 
 ## License
@@ -24,6 +29,11 @@ All textual data is licensed under [Creative Commons 3.0 BY-NC-SA](https://creat
 
 ## Screenshots
 
+![Difference Collection: List View](Screenshots/ iteApp-DiffCollection-ListView.png)
+
+![Difference Collection: Object View](Screenshots/CiteApp-DiffCollection.png)
+
+![Texts View: Tokenized Exemplar](Screenshots/CiteApp-Exemplar.png)
 
 
 
