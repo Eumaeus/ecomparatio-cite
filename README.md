@@ -29,7 +29,7 @@ All textual data is licensed under [Creative Commons 3.0 BY-NC-SA](https://creat
 
 ## Screenshots
 
-![Difference Collection: List View](Screenshots/ iteApp-DiffCollection-ListView.png)
+![Difference Collection: List View](Screenshots/CiteApp-DiffCollection-ListView.png)
 
 ![Difference Collection: Object View](Screenshots/CiteApp-DiffCollection.png)
 
