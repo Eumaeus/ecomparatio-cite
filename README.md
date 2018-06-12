@@ -4,7 +4,7 @@ A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/e
 
 ## Contents
 
-- CiteApp
+- CiteApp: A local copy of CiteApp, configured to load the eComparatio data for Plutarch's *Pericles* by default.
 - CiteService
 - IntegrationBuild
 - Virtual Machine
