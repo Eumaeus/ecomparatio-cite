@@ -4,8 +4,14 @@ A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/e
 
 ## Contents
 
-- CiteApp: A local copy of CiteApp, configured to load the eComparatio data for Plutarch's *Pericles* by default.
-- CiteService
+- CiteApp: A local copy of CiteApp, configured to load the eComparatio data for Plutarch's *Pericles* by default. 
+
+>	Run it by double-cliking `CiteApp-1.10.0.html1. **N.b.** This digital library is very large, and CiteAppl will take a certain time to load it.
+
+- CiteService: A Microservice delivering CITE data as JSON responses to HTTP requests.
+
+> Run it by …. See `CiteService/README.md` for example requests.
+
 - IntegrationBuild
 - Virtual Machine
 
