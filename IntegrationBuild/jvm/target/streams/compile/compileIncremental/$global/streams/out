@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/Users/cblackwell/Dropbox/CITE/scala/pluperfct-utils/jvm/src/main/scala/Main.scala, /Users/cblackwell/Dropbox/CITE/scala/pluperfct-utils/shared/src/main/scala/CiteException.scala, /Users/cblackwell/Dropbox/CITE/scala/pluperfct-utils/shared/src/main/scala/CiteObjectJson.scala, /Users/cblackwell/Dropbox/CITE/scala/pluperfct-utils/shared/src/main/scala/Ohco2Json.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/jvm/src/main/scala/Main.scala, /Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/shared/src/main/scala/CiteObjectJson.scala, /Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/shared/src/main/scala/Ohco2Json.scala, /Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/shared/src/main/scala/CiteException.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(edu.furman.fufolio.pluperfectutils.Main, edu.furman.fufolio.pluperfectutils.CiteException, edu.furman.fufolio.pluperfectutils.CiteObjJson, edu.furman.fufolio.pluperfectutils.Ohco2Json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 4 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Scala sources to /Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/jvm/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1cee4149 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes:/Users/cblackwell/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/cblackwell/Dropbox/Grants/Mellon-Schubert/Final_Report/eComparatio-CITE/IntegrationBuild/jvm/target/scala-2.12/classes:/Users/cblackwell/.ivy2/cache/edu.holycross.shot.cite/xcite_2.12/jars/xcite_2.12-3.3.0.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/cex_2.12/jars/cex_2.12-6.2.1.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/citerelations_2.12/jars/citerelations_2.12-2.2.0.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/ohco2_2.12/jars/ohco2_2.12-10.8.1.jar:/Users/cblackwell/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/seqcomp_2.12/jars/seqcomp_2.12-1.0.0.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/citebinaryimage_2.12/jars/citebinaryimage_2.12-1.1.2.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/scm_2.12/jars/scm_2.12-6.1.0.jar:/Users/cblackwell/.ivy2/cache/edu.holycross.shot/citeobj_2.12/jars/citeobj_2.12-7.0.2.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-numbers_2.12/jars/circe-numbers_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.1.jar:/Users/cblackwell/.ivy2/cache/org.typelevel/cats-macros_2.12/jars/cats-macros_2.12-1.0.1.jar:/Users/cblackwell/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.2.jar:/Users/cblackwell/.sbt/boot/scala-2.12.4/lib/scala-reflect.jar:/Users/cblackwell/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.1.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-generic_2.12/jars/circe-generic_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar:/Users/cblackwell/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.3.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-optics_2.12/jars/circe-optics_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/jars/monocle-core_2.12-1.4.0.jar:/Users/cblackwell/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.8.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-parser_2.12/jars/circe-parser_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/io.circe/circe-jawn_2.12/jars/circe-jawn_2.12-0.9.0.jar:/Users/cblackwell/.ivy2/cache/org.spire-math/jawn-parser_2.12/jars/jawn-parser_2.12-0.11.0.jar:/Users/cblackwell/.ivy2/cache/org.scala-js/scalajs-stubs_2.12/jars/scalajs-stubs_2.12-0.6.22.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 6.724186017 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
