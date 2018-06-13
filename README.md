@@ -12,7 +12,7 @@ This package includes a [datafile]() in [CEX format]() containing 20,368 citable
 
 - CiteService: A Microservice delivering CITE data as JSON responses to HTTP requests.
 
-> Run it by …. See `CiteService/README.md` for example requests.
+> Run it with `java -jar sbt.jar` in the `CiteService` directory. It will be running on `http://localhost:9000`. See `CiteService/Exampes.md` for for example requests.
 
 - IntegrationBuild: The `SBT`/`Scala` build-package that uses CITE code libraries to generate a CEX serialization of two texts of Plutarch's *Pericles* and a collection of "difference objects" based on JSON output from eComparatio
 
