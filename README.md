@@ -2,7 +2,7 @@
 
 A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/ecomparatio>) data integrated with the CITE Environment.
 
-This package includes a [datafile]() in [CEX format]() containing 20,368 citable passages and tokens of Plutarch's *Life of Pericles* and 10,233 "difference records" documenting eComparatio output for a comparison of two versions of *Pericles*.
+This package includes a [datafile](https://github.com/Eumaeus/ecomparatio-cite/blob/master/IntegrationBuild/resources/plutarchComparatio.cex) in [CEX format](https://github.com/cite-architecture/cex) containing 20,368 citable passages and tokens of Plutarch's *Life of Pericles* and 10,233 "difference records" documenting eComparatio output for a comparison of two versions of *Pericles*.
 
 ## Contents
 
@@ -20,7 +20,7 @@ This package includes a [datafile]() in [CEX format]() containing 20,368 citable
 
 - Virtual Machine: The CiteService and integration scripts requires SBT, Java 1.8, and in general a Unix-like environment. This Virtual Machine image offers a pre-configured environment. 
 
-> See `VirtualMachine` for set-up instructions.
+> See `VirtualMachine/README.md` for set-up instructions.
 
 ## License
 
