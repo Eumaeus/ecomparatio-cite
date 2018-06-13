@@ -25,7 +25,7 @@ Eventually Parameterize These Values!
 val jsonFilePath = "resources/PeriklesFinal.json"
 
 // Documentation URL (for CEX file)
-val documentationURL:String = "https://github.com/Leipzig-Furman-Plutarch/pluperfct-utils"
+val documentationURL:String = "https://github.com/Eumaeus/ecomparatio-cite"
 
 // Stuff for CTS Data
 val textUrnBase:String = "urn:cts:greekLit:tlg0007.tlg012"
@@ -73,7 +73,7 @@ val cexHeader:String = """
 #!citelibrary
 name#demo
 urn#urn:cite2:cex:fufolio.2018_1:ecomparatioDemo
-license#CC Share Alike.  For details, see <https://github.com/Leipzig-Furman-Plutarch/pluperfct-utils>.
+license#CC Share Alike.  For details, see <https://github.com/Eumaeus/ecomparatio-cite>.
 """
 
 val cexCatalogHeader:String = """

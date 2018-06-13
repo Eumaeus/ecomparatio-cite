@@ -2,6 +2,8 @@
 
 A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/ecomparatio>) data integrated with the CITE Environment.
 
+This package includes a [datafile]() in [CEX format]() containing 20,368 citable passages and tokens of Plutarch's *Life of Pericles* and 10,233 "difference records" documenting eComparatio output for a comparison of two versions of *Pericles*.
+
 ## Contents
 
 - CiteApp: A local copy of CiteApp, configured to load the eComparatio data for Plutarch's *Pericles* by default. 
@@ -20,8 +22,9 @@ A demonstration package showing eComparatio (<https://github.com/ecomp-shONgit/e
 
 > See `VirtualMachine` for set-up instructions.
 
-
 ## License
+
+Integration of eComparatio and CITE, including performance-enhancements to the CITE Libraries to accommodate comparison- and graphed data, was supported by a grant from the Andrew W. Mellon Foundation.
 
 All sourcecode is licensed under the [GPL 3.0](https://opensource.org/licenses/gpl-3.0.html).
 
