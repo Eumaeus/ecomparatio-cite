@@ -8,7 +8,7 @@ This package includes a [datafile](https://github.com/Eumaeus/ecomparatio-cite/b
 
 - CiteApp: A local copy of CiteApp, configured to load the eComparatio data for Plutarch's *Pericles* by default. 
 
->	Run it by double-cliking `CiteApp-1.10.0.html1. **N.b.** This digital library is very large, and CiteAppl will take a certain time to load it.
+>	Run it by double-cliking `CiteApp-1.11.0.html. **N.b.** This digital library is very large, and CiteApp will take a certain time to load it.
 
 - CiteService: A Microservice delivering CITE data as JSON responses to HTTP requests.
 
